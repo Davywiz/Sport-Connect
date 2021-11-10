@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "943593694124",
+    "project_id": "sport-connect-ea889",
+    "storage_bucket": "sport-connect-ea889.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943593694124:android:6b135083a2e00947875009",
+        "android_client_info": {
+          "package_name": "com.httpsgithub.comdavywiz.sport_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943593694124-fvcb3pmb38c6hn1c49afgqc10oi61pca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1rXecuN8HqZtJ4d8NppuJVefomXVkWCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943593694124-fvcb3pmb38c6hn1c49afgqc10oi61pca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
